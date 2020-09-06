@@ -1,0 +1,17 @@
+*** Please Read The Paragraph Below ***
+Note:
+    Only data from the years 2012-2015 were obtained. Only data pertaining to GDP growth rate consisted of other years.
+In order to conform to the rest of the datasets and make operations smoother, only the part from 2012-2015 of the GDP growth rate dataset was used.
+
+
+Q. What are the trends in consumption, GDP, GNI, savings and GDP growth rate and how do their respective sub categories compare with each other?
+Answer:- Almost all sectors (excluding GDP growth rates) have a steady upward trajectory. Plot 1:- Consumption and GDP had almost linear trajectories during the four year span. Private consumption outweighs public consumption by a large margin. Plot 2:- GDP at current prices is also substantially greater than the corresponding GDP at constant prices. Plot 3:- The plot of GNI data is very similar to that of its GDP counterpart, following similar trends for its values at current and constant prices.
+Plot 4:- The plot for national savings might produce a curve if there were more points. The shape, therefore, remains unidentified until more data are available. Plot 5:- Nominal GDP growth rate had a downward trajectory and the shape may extend to a curve if more data are obtained. Real GDP growth rate had minimal decrease in 2013 which lasted till 2014 but it recovered in 2015. Inflation rate seems to be periodic in growth and fall with a time period of two years but still has a steady decreasing rate.
+
+
+References:
+Consumption:- http://data.gov.bd/dataset/consumption-current-prices-2012-16/resource/8067eef9-91e4-4489-a382-6bef8e74dc3d
+GDP:- http://data.gov.bd/dataset/gdp-current-and-constant-market-prices-2012-16/resource/d7b02833-37c9-433c-9046-346b1352b1cf
+GNI:- http://data.gov.bd/dataset/gni-current-and-constant-market-places-2012-16/resource/79ca4bb3-14e0-4856-946d-d0a0ea0c8257
+Savings:- http://data.gov.bd/dataset/savings-and-investments-2012-16/resource/c08491ec-25f7-4d37-8ae2-faccb8a4b7a7
+GDP growth rates:- http://data.gov.bd/dataset/nominal-and-real-gdp-2007-16/resource/63ff2bb4-af18-42af-91ce-a1d5843eceb0
